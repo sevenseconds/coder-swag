@@ -17,6 +17,7 @@
 		145DDDBC209EDD1200D410AB /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DDDBB209EDD1200D410AB /* DataService.swift */; };
 		145DDDBE209F3D1D00D410AB /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DDDBD209F3D1D00D410AB /* ProductCell.swift */; };
 		145DDDC0209F3F3300D410AB /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DDDBF209F3F3300D410AB /* Product.swift */; };
+		145DDDC2209F44DB00D410AB /* ProductsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145DDDC1209F44DB00D410AB /* ProductsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		145DDDBB209EDD1200D410AB /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		145DDDBD209F3D1D00D410AB /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		145DDDBF209F3F3300D410AB /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		145DDDC1209F44DB00D410AB /* ProductsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				145DDDA3209ECDD200D410AB /* CategoriesVC.swift */,
+				145DDDC1209F44DB00D410AB /* ProductsVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				145DDDA4209ECDD200D410AB /* CategoriesVC.swift in Sources */,
 				145DDDA2209ECDD200D410AB /* AppDelegate.swift in Sources */,
 				145DDDBE209F3D1D00D410AB /* ProductCell.swift in Sources */,
+				145DDDC2209F44DB00D410AB /* ProductsVC.swift in Sources */,
 				145DDDB7209ED76E00D410AB /* CategoryCell.swift in Sources */,
 				145DDDB9209EDB8500D410AB /* Category.swift in Sources */,
 				145DDDC0209F3F3300D410AB /* Product.swift in Sources */,
